@@ -1,0 +1,11 @@
+Code
+- Create a PreProcess funtion
+    - Drop not needed columns (DONE 16 July)
+    - Get all data the same type and remove nulls
+- Create second df that looks at quartile and percentile for stats
+- Input player name, output quartile and percentile for stats
+- Create basic model that uses combine stats and top finishes
+
+Data
+- Get RAS Scores
+- Get first 5 season stats and top 12,24,36 for WR's
