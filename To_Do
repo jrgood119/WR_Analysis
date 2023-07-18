@@ -1,11 +1,28 @@
 Code
-- Create a PreProcess funtion
-    - Drop not needed columns (DONE 16 July)
-    - Get all data the same type and remove nulls
+- Create a PreProcess class
+    - Add init method
+    - Create read_data function
+        - Drop not needed columns (DONE 16 July)
+    - Create remove_nulls function
+        - Get all data the same type and remove nulls
+    - Create set_types function
 - Create second df that looks at quartile and percentile for stats
+- EDA
 - Input player name, output quartile and percentile for stats
 - Create basic model that uses combine stats and top finishes
+- Main file?
 
 Data
 - Get RAS Scores
-- Get first 5 season stats and top 12,24,36 for WR's
+- Get first 5 season stats and top 12,24,36
+    - Added Pahowdy top SZNs
+- Check combine records for players with RAS
+- Arm length add?
+- Prospect grades add?
+
+ReadMe
+- Add data locations
+    - Pahowdy and RAS (DONE 17 July)
+
+Long term
+- GUI?
